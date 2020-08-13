@@ -23,7 +23,7 @@ class Form{
        greeting.position(490,640);
    })
     var button1 = createButton("Zakir Hussain")
-    button1.position(476,136);
+    button1.position(376,136);
     button1.mousePressed(function(){
         button3.hide();
         button1.hide();

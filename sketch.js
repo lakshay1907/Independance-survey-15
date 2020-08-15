@@ -27,7 +27,7 @@ function draw(){
     text("Q-4 Who led the salt march?",3,245);
     text("Q-5 Which country celebrate it's Independance Day ",3,300);
     text("one day before of India?",39,320);
-    text("Q-6 Are you celebrating Independance?",3,400);
+    text("Q-6 What is India's national song?",3,400);
 }
 
 
